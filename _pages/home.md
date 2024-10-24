@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Kean Shi's Homepage"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Kean Shi @Tianjin University"
 sitemap: false
 permalink: /
 ---
